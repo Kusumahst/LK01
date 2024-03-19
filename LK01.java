@@ -44,7 +44,6 @@ class segiEmpat extends bangunDatar {
         double diagonalSE = Math.sqrt(Math.pow(panjang, 2) + Math.pow(lebar, 2));
         System.out.printf("Diagonal Segi Empat : %.2f", diagonalSE);
     }
-
 }
 
 public class LK01 {
